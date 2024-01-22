@@ -71,7 +71,7 @@ nav{
 nav > a{
     color: white;
     text-decoration: none;
-    padding: 9px;
+    padding: 5px;
 }
 nav > a:hover{
     background-color: rgba(211, 211, 211, 0.159);
